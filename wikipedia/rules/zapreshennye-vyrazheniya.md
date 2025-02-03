@@ -1,3 +1,18 @@
+---
+icon: shield-exclamation
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Запрещенные выражения
 
 ## Любые вариации этих слов и выражений, в том числе с использованием цензуры или иностранных языков, запрещены.

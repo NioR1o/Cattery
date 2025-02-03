@@ -1,3 +1,7 @@
+---
+icon: scale-balanced
+---
+
 # Правила
 
 {% hint style="info" %}

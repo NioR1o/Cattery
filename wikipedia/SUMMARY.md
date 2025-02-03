@@ -11,4 +11,4 @@
 * [Внутригровой чат](wikipedia/vnutrigrovoi-chat.md)
 * [Роли и значки](wikipedia/roli-i-znachki.md)
 * [Система миров](wikipedia/sistema-mirov.md)
-* [Дополения](wikipedia/dopoleniya.md)
+* [Дополения/Модификации](wikipedia/dopoleniya-modifikacii.md)

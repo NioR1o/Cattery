@@ -1,3 +1,18 @@
+---
+icon: hexagon-exclamation
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Запрещенные модификации
 
 ## Запрещается к использованию: <a href="#prohibited-mods" id="prohibited-mods"></a>
