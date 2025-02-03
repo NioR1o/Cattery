@@ -33,7 +33,7 @@ icon: gear
 
 Очень интересен для отыгровки РП
 
-Ссылка на страницу мода — [https://modrinth.com/plugin/emotecraft](https://modrinth.com/plugin/emotecraft)
+Ссылка на страницу мода — [modrinth.com/plugin/emotecraft](https://modrinth.com/plugin/emotecraft)
 
 </details>
 
