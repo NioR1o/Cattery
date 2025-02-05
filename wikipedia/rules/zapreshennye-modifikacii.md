@@ -36,8 +36,6 @@ layout:
 * Impact
 * Inertia
 * Inventory Plus
-* InvMove
-* ItemSwapper
 * Jello
 * LavaClearView
 * MultiConnect
