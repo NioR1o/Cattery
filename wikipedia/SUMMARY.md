@@ -6,8 +6,9 @@
 * [Запрещенные модификации](rules/zapreshennye-modifikacii.md)
 * [Запрещенные выражения](rules/zapreshennye-vyrazheniya.md)
 
-## ВИКИПЕДИЯ <a href="#wikipedia" id="wikipedia"></a>
+## КОНТЕНТ <a href="#wikipedia" id="wikipedia"></a>
 
+* [Команды](wikipedia/komandy.md)
 * [Внутригровой чат](wikipedia/vnutrigrovoi-chat.md)
 * [Роли и значки](wikipedia/roli-i-znachki.md)
 * [Система миров](wikipedia/sistema-mirov.md)

@@ -17,42 +17,34 @@ layout:
 
 ## Запрещается к использованию: <a href="#prohibited-mods" id="prohibited-mods"></a>
 
-* Авто-тотем модификации  `(любого вида)`
-* Модификации, выполняющие действия за игрока  `ИИ, принтер и так далее`
-* Чит-модификации  `(любого вида)`
+* Авто-тотем модификации
+* Модификации, выполняющие действия за игрока:  ИИ, принтер и тд.
+* Чит-модификации  любого вида
 * AFKPeace
 * Aristois
 * AutoSwitch
 * Baritone
 * Bedrock Miner
-* Better PVP  `(все версии)`
+* Better PVP&#x20;
 * BetterClicker
 * Bridging Mod
 * ClientCommands
 * CMDCam
 * Elytra Utilities
 * FindMe
-* FreeCam (Который проходит через стены)
+* FreeCam, исключение - FreeCam Modrinth edition
 * Impact
 * Inertia
 * Inventory Plus
 * Jello
 * LavaClearView
 * MultiConnect
-* NoFog Используйте `Sodium Extra или OptiFine`
-* SeedCracker `А также другие моды и программы, выполняющие функции этого мода`
+* NoFog - Используйте Sodium Extra или OptiFine
+* SeedCracker, А также другие моды и программы, выполняющие функции этого мода
 * Sigma
 * Trajectory Preview
 * Liquid Bounce
 * Tweakeroo
 * Wall-Jump
 * Wurst
-* X-ray модификации `(любого вида)`
-
-{% hint style="warning" %}
-Ресурспаки также являются модификациями.&#x20;
-{% endhint %}
-
-{% hint style="success" %}
-Разрешено устанавливать любые ресурспаки, кроме тех, что указаны в списке запрещённых.
-{% endhint %}
+* X-ray модификации и ресурспаки
