@@ -8,6 +8,7 @@
 
 ## КОНТЕНТ <a href="#wikipedia" id="wikipedia"></a>
 
+* [Кастомные Крафты](wikipedia/kastomnye-krafty.md)
 * [Команды](wikipedia/komandy.md)
 * [Внутригровой чат](wikipedia/vnutrigrovoi-chat.md)
 * [Роли и значки](wikipedia/roli-i-znachki.md)
